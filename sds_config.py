@@ -1,3 +1,7 @@
+"""
+@author: Bharath Hariharan
+https://github.com/bharath272/sds
+"""
 import numpy as np
 PIXEL_MEANS = np.array([[[102.9801, 115.946, 122.7717]]])
 TARGET_SIZE = 600
